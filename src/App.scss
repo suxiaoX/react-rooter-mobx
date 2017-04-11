@@ -1,0 +1,22 @@
+.App {
+    text-align: center;
+    padding: 10px;
+}
+
+.partial {
+    margin-bottom: 20px;
+}
+
+.simulator {
+    width: 750px;
+    float: left;
+}
+.configuartion {
+    width: 658px;
+    float: right;
+    border: 2px solid #ececec;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

@@ -1,0 +1,13 @@
+.partial {
+    border: 1px dashed dodgerblue;
+    width: 100%;
+    min-height: 160px;
+    cursor: pointer;
+    position: relative;
+}
+
+.btn-conf {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
